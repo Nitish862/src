@@ -26,8 +26,8 @@
         <nav>
             <a href="ex1.php">exercise1</a>
             <a href="ex2.php">exercise2</a>
-            <a href="ex3.php">Contact</a>
-            <a href="ex4.php">Careers</a>
+            <a href="ex3.php">exercise3</a>
+            <a href="ex4.php">exercise4</a>
         </nav>
     </header>
 
